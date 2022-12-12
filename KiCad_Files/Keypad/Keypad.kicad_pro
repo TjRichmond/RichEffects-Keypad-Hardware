@@ -416,12 +416,24 @@
       ""
     ],
     [
+      "5d7bc1c6-f6c8-4f2d-8c5c-a2221ab6ac65",
+      "Sensors"
+    ],
+    [
       "ef58ddb5-3933-4fa5-98b6-d3a2de6aed0f",
       "nRF52840-QIAA-aQFN-73"
     ],
     [
       "09b3238e-c06f-4705-a431-1f5fd6e628e0",
-      "Switch_matrix"
+      "Switch_Matrix"
+    ],
+    [
+      "55b8cb66-3fca-4607-b00d-4e3a0178631a",
+      "LED_Matrix"
+    ],
+    [
+      "0b42ea53-6786-449b-83b6-5a500187e5ba",
+      "USB_C"
     ]
   ],
   "text_variables": {}
